@@ -1,13 +1,14 @@
 Hi there, I am Lokendra Khanal from Nepal but currently living in Canada.
 
-👨‍💻 Backend Developer | Python 🐍 | Django 🌐
+👨‍💻 Java | Python 🐍 | Django 🌐
 
-Passionate about building robust and scalable web applications, I specialize in backend development using Python and the Django framework. With a keen eye for efficient code, I aim to create software solutions that not only work flawlessly but also meet high-performance standards.
+Passionate about building robust and scalable web applications, I specialize in backend development using Java and React. With a keen eye for efficient code, I aim to create software solutions that not only work flawlessly but also meet high-performance standards.
 
 🔧 Skills:
 
 Python
-Django
+Java
+React
 RESTful APIs
 Database design (SQL & NoSQL)
 Docker
