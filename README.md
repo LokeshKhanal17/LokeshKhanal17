@@ -1,13 +1,12 @@
 Hi there, I am Lokendra Khanal from Nepal but currently living in Canada.
 
-👨‍💻 Java | TypeScript | React🌐
+  TypeScript | React🌐
 
 Passionate about building robust and scalable web applications, I specialize in backend development using Java and React. With a keen eye for efficient code, I aim to create software solutions that not only work flawlessly but also meet high-performance standards.
 
 🔧 Skills:
 
 Python
-Java
 React
 RESTful APIs
 Database design (SQL & NoSQL)
