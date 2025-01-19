@@ -1,23 +1,45 @@
-Hi there, I am Lokendra Khanal from Nepal but currently living in Canada.I am currently in my Learning phase.
+👋 Hi, I'm Lokendra Khanal
+A passionate developer from Nepal 🇳🇵, currently based in Canada 🇨🇦, focused on building modern web applications with TypeScript and React. I'm on an exciting journey of continuous learning and growth in the tech world.
+🚀 Current Focus
 
-  TypeScript | React🌐
+Building responsive and performant web applications using React
+Mastering TypeScript for type-safe development
+Exploring modern frontend architectural patterns
+Learning best practices in frontend development
 
-  
+💻 Technical Skills
+Frontend Development
 
-🔧 Skills:
+Languages: TypeScript, JavaScript, HTML5, CSS3
+Framework/Library: React.js
+State Management: Redux, Context API
+Styling: Tailwind CSS, Styled-components
+Version Control: Git & GitHub
 
-Python
-React
-RESTful APIs
-Database design (SQL & NoSQL)
-Docker
+Backend & Tools
 
-📦 Open Source Enthusiast: I love contributing to open-source projects, and I'm committed to giving back to the tech community. Check out my contributions to various Python and Django projects.
+Backend: Nodejs, RESTful APIs
+Databases: SQL, NoSQL
+DevOps: Docker
+Development Tools: VS Code, npm/yarn
 
-📚 Lifelong Learner: Technology is constantly evolving, and I'm always eager to expand my knowledge. I enjoy learning about new tools, techniques, and best practices in the world of backend development.
+🌱 Currently Learning
 
-🌟 Let's Collaborate: I'm open to collaboration and always excited to work on interesting projects. Feel free to reach out for discussions, project ideas, or just to connect with a fellow developer!
+Advanced TypeScript patterns
+React performance optimization
+Modern CSS frameworks
+Frontend testing practices
 
-📫 Contact: 📧 Email: Khanal.lokendraa@gmail.com 💼 LinkedIn: https://www.linkedin.com/in/lokendra-khanal-0a8046276/ 🌐 Portfolio: https://www.profilemelokesh.in
+🤝 Let's Connect
+I'm always excited to collaborate on interesting projects and connect with fellow developers. Feel free to reach out if you want to discuss tech, share ideas, or work together!
 
-Let's build the web of the future together! 🚀
+📧 Email: Khanal.lokendraa@gmail.com
+💼 LinkedIn: Lokendra Khanal
+🌐 Portfolio: profilemelokesh.in
+
+
+🏆 Recent Projects
+Here are some projects I'm particularly proud of:
+
+
+"The only way to do great work is to love what you do." - Steve Jobs
