@@ -43,9 +43,13 @@ Frontend testing practices
 🤝 Let's Connect
 I'm always excited to collaborate on interesting projects and connect with fellow developers. Feel free to reach out if you want to discuss tech, share ideas, or work together!
 
-📧 Email: Khanal.lokendraa@gmail.com
-💼 LinkedIn: Lokendra Khanal
-🌐 Portfolio: profilemelokesh.in
+
+
+
+
+📧 Email: Khanal.lokendraa@gmail.com--![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+💼 LinkedIn: Lokendra Khanal--![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+🌐 Portfolio: profilemelokesh.in--![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
 
 🏆 Recent Projects
