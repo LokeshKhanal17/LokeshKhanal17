@@ -1,3 +1,4 @@
+![Badge Name](https://img.shields.io/badge/TEXT-COLOR?style=for-the-badge&logo=LOGO&logoColor=white)
 👋 Hi, I'm Lokendra Khanal
 A passionate developer from Nepal 🇳🇵, currently based in Canada 🇨🇦, focused on building modern web applications with TypeScript and React. I'm on an exciting journey of continuous learning and growth in the tech world.
 🚀 Current Focus
